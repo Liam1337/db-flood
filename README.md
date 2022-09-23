@@ -1,5 +1,6 @@
 # Database Flood
 
+**Educational Purposes ONLY!**
 I do not condone or encourage unauthorized or illegal use of this script and will not be held responsible for such use cases.
 
 DB Chromium Emulation Flood Using [puppeteer]](https://www.npmjs.com/package/puppeteer).
