@@ -33,7 +33,7 @@ Example:
 node main.js https://liam1337.space/auth 10 
 
 ## Change the input for each form-group, example:
-https://i.imgur.com/3Zh01dq.png
+![image](https://user-images.githubusercontent.com/94720916/192049454-ce3d843a-d14b-4186-b02f-5674dab15b15.png)
 
 
 ### Linux
