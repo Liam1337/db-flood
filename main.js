@@ -59,7 +59,7 @@ if (process.argv.length < 4) {
         Usage: node main http://example.com/register.php 10
         -------------------------------------------------------
         https://github.com/Liam1337/ | DB-FLOOD
-        Made for ducational Purposes ONLY By @Liam1337                                       
+        Made for educational Purposes ONLY By @Liam1337                                       
     `.rainbow);
 	process.exit(-1);
 };
