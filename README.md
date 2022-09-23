@@ -32,6 +32,10 @@ apt install chromium-browser
 Example:
 node main.js https://liam1337.space/auth 10 
 
+## Change the input for each form-group, example:
+https://i.imgur.com/3Zh01dq.png
+
+
 ### Linux
 UNDER LINUX ACTIVATE THE DIRECTORY OF THE CHROMIUM BROWSER AND CHANGE THE HEADLESS MODE (true)
    and then change the path of the Chromium browser in the puppeteer.launch() function
