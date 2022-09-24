@@ -105,7 +105,7 @@ if (process.argv.length < 4) {
         //console.log(user);
         /*
 
-         Change the input of your victum https://i.imgur.com/pGgeUYO.png
+         Change the input of your victim https://i.imgur.com/pGgeUYO.png
 
         */
         await page.type('input[name=register-username]', user); // Random "real" username
